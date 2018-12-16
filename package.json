@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/BSG-1/toDoListAPI/issues"
   },
-  "homepage": "https://github.com/BSG-1/toDoListAPI#readme"
+  "homepage": "https://github.com/BSG-1/toDoListAPI#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
